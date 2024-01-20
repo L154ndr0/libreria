@@ -7,3 +7,4 @@ class BookListView(ListView):
     model = Book
     template_name = 'book_list.html' 
     
+    
